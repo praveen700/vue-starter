@@ -36,7 +36,6 @@ The project is helpful to start your next project, as it provides a lot of the c
 
 ### Installation
 
-- Clone the repo - `git clone https://github.com/kutia-software-company/vue3-starter`.
 - Install project dependencies — `npm install`.
 - Create `.env` file - `cp .env.example .env`.
 - Launch the app — `npm run dev`, it will become available at [http://localhost:3000](http://localhost:3000/).
@@ -49,15 +48,8 @@ The project is helpful to start your next project, as it provides a lot of the c
 - `code:format`
 - `code:check`
 
-### Related Projects
 
-- [Node.js TypeScript API Starter](https://github.com/kutia-software-company/express-typescript-starter).
-- [React js TypeScript Starter](https://github.com/kutia-software-company/react-js-starter).
 
-### License
-
-[MIT](LICENSE).
 
 ---
 
-<sup>Made with ♥ by Gentrit Abazi ([@gentritabazi01](https://github.com/gentritabazi01)).</sup>
